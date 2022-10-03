@@ -1,2 +1,2 @@
 # test1.md
-![logo](img/logo.png) logo
+![logo](img/logo.png) My logo
