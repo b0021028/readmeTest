@@ -67,6 +67,4 @@
 > 
 > $a^2 + ai - ba -\sqrt[n]{aeipsiej} * jfe + f(a) 数式$\
 > $f(x) = x + x^2$
-> $$
-> a^2 + ai * \frac{2,00}{3}* - ba -\sqrt[n]{aeipsiej} * jfe + f(a) 数式
-> $$
+> $$a^2 + ai * \frac{2,00}{3}* - ba -\sqrt[n]{aeipsiej} * jfe + f(a) 数式$$
