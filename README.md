@@ -6,4 +6,3 @@
 4. [test4](/resource/test4.md)
 5. 
 
-- ![test4](/resource/test4.md
